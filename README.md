@@ -1,6 +1,7 @@
 # Jetson-HawkEyeSD
 ## Autonomously navigating Scan-Drone. Creates 3D-Models of real-world objects and optimizes them in real-time.
 
+***
 > This work, "Jetson-HawkEyeSD", contains a derivative of "<a href="https://github.com/PX4/Firmware/blob/master/LICENSE">PX4 firmware</a>" by PX4 Development Team, used under <a href="https://github.com/PX4/Firmware">BSD 3-Clause License</a>.
 
 > This work, "Jetson-HawkEyeSD", contains a derivitive of the Pixhawk 2 design by <a href="http://proficnc.com">ProfiCNC</a> lincensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA 3.0</a>
